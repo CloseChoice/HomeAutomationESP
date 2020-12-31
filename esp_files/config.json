@@ -1,0 +1,1 @@
+{"client_id": <client_id>, "server": <server_name>, "user": <local_user_name>,"password": <mqtt_password>, "wifi_name":<wifi_name>, "wifi_passwd": <wifi_password>, "topic": <topic_name>}
